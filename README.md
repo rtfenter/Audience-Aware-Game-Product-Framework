@@ -462,5 +462,5 @@ The goal is to stop treating non-playing audiences as invisible when their exper
 
 Supporting research and reasoning will live in:
 
-- `research/findings.md` — spectator motivation research, industry-practice research, counterexamples and sources
-- `research/reasoning-log.md` — observations, evolving hypotheses, corrections and the reasoning behind the framework
+- [Research findings](research/findings.md) — spectator motivation research, industry-practice research, counterexamples and sources
+- [Product reasoning log](research/reasoning-log.md) — observations, evolving hypotheses, corrections and the reasoning behind the framework
