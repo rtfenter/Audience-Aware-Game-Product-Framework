@@ -28,7 +28,7 @@ That isn't always true.
 
 Games like Lies of P are particularly interesting to me because I enjoy watching combat I often don't want to execute myself.
 
-I can still understand a surprising amount of what is happening.
+I can still understand most of what is happening.
 
 I can recognize when an attack lands versus when it is blocked or parried.
 
