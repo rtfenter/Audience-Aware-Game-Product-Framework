@@ -177,8 +177,6 @@ That does **not** prove those teams never consider watchers internally.
 
 It means I could not find public evidence that audience-first consumption is routinely incorporated into their product and design practice.
 
-That distinction matters.
-
 ---
 
 ## What this study adds
